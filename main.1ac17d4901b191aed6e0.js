@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{L1EO:function(o,n,a){},QfWi:function(o,n,a){"use strict";a.r(n);a("L1EO");console.log(localStorage),localStorage("my-data",JSON.stringify({name:"Mango",age:2}))}},[["QfWi",1]]]);
+//# sourceMappingURL=main.1ac17d4901b191aed6e0.js.map
